@@ -44,7 +44,60 @@
 #### 项目目标
 * 长期目标
 
+	我对机器人项目组的长期发展方向主要定位在高层软件应用开发方向，因为我们在底层硬件方面没有任何优势，使用别人优秀的硬件平台就好，而且更加重要的是，我觉得项目组成员如果把本项目涉及到的东西搞懂，在实验室各方面都会有自己的核心竞争力。另外，机器人项目组的原则还是人才培养，并且是综合能力培养，我对机器人组的未来展望是，项目组成员以后能在控制算法、机器视觉、智能硬件等方面有所突破。
+
 * 短期目标
 
+	近期我们主要需要考虑实现遥控手套控制机械臂，以及加上机器视觉应用。
+
+#### 项目wiki
+
+*	[项目wiki](../../wiki)
+
 #### 常用的资源链接
-	
+* uArm机械臂
+	* uArm官网：[https://ufactory.cc](https://ufactory.cc/)
+	* uArm开发者网站：[http://developer.ufactory.cc](http://developer.ufactory.cc/)
+* Arduino
+	* Arduino官网：[http://www.arduino.org](http://www.arduino.org/)
+	* Arduino开发网站：[https://www.arduino.cc](https://www.arduino.cc/)
+	* Arduino中文网站：[http://www.arduino.cn](http://www.arduino.cn/)
+	* processing官网：[https://processing.org](https://processing.org/)
+* Linux
+	* ubuntu中文：[http://wiki.ubuntu.org.cn](http://wiki.ubuntu.org.cn/%E9%A6%96%E9%A1%B5)
+	* linux源码：[https://www.kernel.org](https://www.kernel.org/)
+	* 树莓派官网：[https://www.raspberrypi.org/](https://www.raspberrypi.org/)
+	* 树莓派实验室：[http://shumeipai.nxez.com](http://shumeipai.nxez.com/)
+	* 香蕉派官网：[http://forum.lemaker.org](http://forum.lemaker.org/)
+* qt
+	* qt官网：[http://www.qt.io](http://www.qt.io/)
+	* qt学习之路：[http://www.devbean.net/category/qt-study-road-2](http://www.devbean.net/category/qt-study-road-2/)
+* OpenCV
+	* OpenCV官网    [http://opencv.org](http://opencv.org/)
+	* OpenCV学习日文网站    [http://opencv.jp/cookbook/index.html](http://opencv.jp/cookbook/index.html#)
+	* OpenCV中文论坛    [http://www.opencv.org.cn](http://www.opencv.org.cn/)
+	* 毛星云博客-OpenCV教程     [http://blog.csdn.net/zhmxy555/article/category/1923021](http://blog.csdn.net/zhmxy555/article/category/1923021)
+* 学习解惑
+	*	github:[https://github.com](https://github.com/)
+	* stackoverflow:[http://stackoverflow.com](http://stackoverflow.com/)
+	* 维基百科：[https://www.wikipedia.org](https://www.wikipedia.org/)
+	*	慕课网:[http://www.imooc.com](http://www.imooc.com/)
+	* 牛客网：[http://www.nowcoder.com](http://www.nowcoder.com/)
+	* 知乎：[https://www.zhihu.com](https://www.zhihu.com/)
+	* 中国知网：[http://www.cnki.net](http://www.cnki.net/)
+	* 菜鸟教程：[http://www.runoob.com](http://www.runoob.com/)
+	* 廖学锋的官方网站：[http://www.liaoxuefeng.com](http://www.liaoxuefeng.com/)
+	* 吴兴章的个人网站：[http://www.nephen.com](http://www.nephen.com/)
+* 软件应用
+	* 异次元软件世界：[http://www.iplaysoft.com](http://www.iplaysoft.com/)
+	* sourceforge：[https://sourceforge.net](https://sourceforge.net/)
+	* 流程图在线制作：[https://www.processon.com](https://www.processon.com/)
+	* PPT在线制作：[http://www.ipresst.com](http://www.ipresst.com/)
+* 创客硬件
+	* 爱板网：[http://www.eeboard.com](http://www.eeboard.com/)
+	* MakerBata：[http://www.makerbeta.com](http://www.makerbeta.com/)
+	* 物联网云平台：[http://www.yeelink.net/](http://www.yeelink.net/)
+	* 极客工坊：[http://www.geek-workshop.com](http://www.geek-workshop.com/forum.php)
+	* 第9单片机开发网：[http://www.9mcu.com/9mcubbs/forum.php](http://www.9mcu.com/9mcubbs/forum.php)
+	* 开源电子网：[http://www.openedv.com](http://www.openedv.com/)
+	* ardupilot开源无人机：[http://ardupilot.org/ardupilot/index.html](http://ardupilot.org/ardupilot/index.html)
