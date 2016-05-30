@@ -25,7 +25,7 @@
 * 硬件平台：`arduino` `stm32` `rasberry pi`
 * 系统平台：`linux` `Windows`
 * 软件平台：`qt5` `ucos` `opencv`
-* 编程语言：不限，必须学习`c`、`c++`，推荐学习`python`、`java`，其他语言不做要求。
+* 编程语言：不限，必须学习`c`、`c++`，推荐学习`python`、`java`
 
 ------------------
 
@@ -43,8 +43,10 @@
 | **base** |本目录是机器人项目涉及到的基础知识，所有项目组成员必须跟着学习任务走一遍。主要介绍arduino和stm32两个硬件平台的使用。
 | **linux** |学习嵌入式不得不对linux操作系统有所了解，本目录会介绍常用的linux命令，工具，以及编程相关的知识。
 | **qt5** |qt5是跨平台的图形库，采用c++开发，在项目中主要用于上位机软件开发。
-| **OpenCv** |opencv是一个开源的计算机视觉库，主要实现了对机器视觉相关复杂算法的函数封装，早期使用c开发，目前主要采用c++开发，也有python、java接口。在项目中主要用于高层应用开发，图像识别等智能化。
+| **OpenCV** |opencv是一个开源的计算机视觉库，主要实现了对机器视觉相关复杂算法的函数封装，早期使用c开发，目前主要采用c++开发，也有python、java接口。在项目中主要用于高层应用开发，图像识别等智能化。
 | **ucos** |一个实时操作系统，常用于嵌入式设备，相对于裸机跑程序更加稳定。在项目中主要用于stm32硬件平台。
+| **src** | 项目组所有源代码
+| ** Copter ** | 会介绍怎么玩飞行器（业余）
 
 -------------------
 
@@ -62,11 +64,25 @@
 #### 项目wiki
 
 *	[项目wiki](../../wiki)
+* [项目issues](../../issues)
+* [项目gitter](https://gitter.im/hayifeng/Robot_Group)
 
 --------------------
 
 #### 常用的资源链接
 
+* 项目组成员github帐号
+	* 伍炼：[hayifeng](https://github.com/hayifeng)
+	* 许一：[JackXuyi](https://github.com/JackXuyi)
+	* 夏晓玲：[MyRancho](https://github.com/MyRancho)
+	* 唐建雄：[taccont](https://github.com/taccont)
+	* 佘晓林：[shexl](https://github.com/shexl)
+	* 邬秉烨：[WuBingye96](https://github.com/WuBingye96)
+	* 万峰：[wanfeng42](https://github.com/wanfeng42)
+	* 林永隆：[KonLam](https://github.com/Konlam)
+	* 魏志伟：[lexweizi](https://github.com/lexweizi)
+	* 田云杰：[MrBlind](https://github.com/MrBlind)
+	* 钟高楼：[zhong201012](https://github.com/zhong201012)
 * uArm机械臂
 	* uArm官网：[https://ufactory.cc](https://ufactory.cc/)
 	* uArm开发者网站：[http://developer.ufactory.cc](http://developer.ufactory.cc/)
