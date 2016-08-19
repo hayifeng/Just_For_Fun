@@ -43,9 +43,14 @@
 * Linux
 	* ubuntu中文：[http://wiki.ubuntu.org.cn](http://wiki.ubuntu.org.cn/%E9%A6%96%E9%A1%B5)
 	* linux源码：[https://www.kernel.org](https://www.kernel.org/)
+	* ArchLinux Wiki: [https://wiki.archlinux.org/index.php/Table_of_contents_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)](https://wiki.archlinux.org/index.php/Table_of_contents_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87))
 	* 树莓派官网：[https://www.raspberrypi.org/](https://www.raspberrypi.org/)
 	* 树莓派实验室：[http://shumeipai.nxez.com](http://shumeipai.nxez.com/)
 	* 香蕉派官网：[http://forum.lemaker.org](http://forum.lemaker.org/)
+* python
+	* python官网：[https://www.python.org](https://www.python.org/)
+	* Python3-Cookbook: [http://python3-cookbook.readthedocs.io/zh_CN/latest/index.html](http://python3-cookbook.readthedocs.io/zh_CN/latest/index.html)
+	* 廖雪峰python教程: [http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 * qt
 	* qt官网：[http://www.qt.io](http://www.qt.io/)
 	* qt学习之路：[http://www.devbean.net/category/qt-study-road-2](http://www.devbean.net/category/qt-study-road-2/)
@@ -54,6 +59,10 @@
 	* OpenCV学习日文网站    [http://opencv.jp/cookbook/index.html](http://opencv.jp/cookbook/index.html#)
 	* OpenCV中文论坛    [http://www.opencv.org.cn](http://www.opencv.org.cn/)
 	* 毛星云博客-OpenCV教程     [http://blog.csdn.net/zhmxy555/article/category/1923021](http://blog.csdn.net/zhmxy555/article/category/1923021)
+* OpenGL
+	* OpenGL官网：[https://www.opengl.org](https://www.opengl.org/)
+	* OpenGL Step by Step: [http://ogldev.atspace.co.uk/index.html](http://ogldev.atspace.co.uk/index.html)
+	* learnopengl: [http://www.learnopengl.com](http://www.learnopengl.com/)
 * 学习解惑
 	*	github:[https://github.com](https://github.com/)
 	* stackoverflow:[http://stackoverflow.com](http://stackoverflow.com/)
@@ -65,6 +74,7 @@
 	* 菜鸟教程：[http://www.runoob.com](http://www.runoob.com/)
 	* 廖学锋的官方网站：[http://www.liaoxuefeng.com](http://www.liaoxuefeng.com/)
 	* 吴兴章的个人网站：[http://www.nephen.com](http://www.nephen.com/)
+	* 李云的博客: [http://yunli.blog.51cto.com](http://yunli.blog.51cto.com/)
 * 软件应用
 	* 异次元软件世界：[http://www.iplaysoft.com](http://www.iplaysoft.com/)
 	* sourceforge：[https://sourceforge.net](https://sourceforge.net/)
@@ -78,3 +88,5 @@
 	* 第9单片机开发网：[http://www.9mcu.com/9mcubbs/forum.php](http://www.9mcu.com/9mcubbs/forum.php)
 	* 开源电子网：[http://www.openedv.com](http://www.openedv.com/)
 	* ardupilot开源无人机：[http://ardupilot.org/ardupilot/index.html](http://ardupilot.org/ardupilot/index.html)
+* 编程练习
+	* leetcode: [https://leetcode.com](https://leetcode.com/)
