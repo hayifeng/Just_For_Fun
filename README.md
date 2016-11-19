@@ -79,7 +79,8 @@
 	* 异次元软件世界：[http://www.iplaysoft.com](http://www.iplaysoft.com/)
 	* sourceforge：[https://sourceforge.net](https://sourceforge.net/)
 	* 流程图在线制作：[https://www.processon.com](https://www.processon.com/)
-	* PPT在线制作：[http://www.ipresst.com](http://www.ipresst.com/)
+	* PPT在线制作：[http://www.ipresst.com](http://www.ipresst.com/)  
+	* windows系统资源：[http://www.itellyou.cn](http://www.itellyou.cn/)  
 * 创客硬件
 	* 爱板网：[http://www.eeboard.com](http://www.eeboard.com/)
 	* MakerBata：[http://www.makerbeta.com](http://www.makerbeta.com/)
